@@ -11,4 +11,5 @@ A portfolio to showcase my projects
 
 ### Screenshot
 
-![Screenshot (12)](https://user-images.githubusercontent.com/119726264/211218739-4d8119a1-2d2e-4c6e-953b-e42166f31add.png)
+
+![portfolio ss](https://user-images.githubusercontent.com/119726264/211219044-39dc1298-6c43-4b71-a361-cfe6b345a8a2.png)
